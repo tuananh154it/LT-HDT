@@ -17,3 +17,5 @@
   }
   ]
 }
+// Lưu ý: Nếu bạn muốn chạy chương trình ngay 
+//trong Terminal thì sử lại dòng "console": "externalTerminal", thành "console": "integratedTerminal",.
